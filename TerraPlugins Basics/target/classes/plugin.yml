@@ -1,0 +1,4 @@
+name: TerraPlugins Basics
+version: '1.0'
+main: me.terraplugins.TerraPluginsBasics
+api-version: 1.19
