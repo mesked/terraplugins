@@ -1,4 +1,0 @@
-name: TerraPlugins Basics
-version: '${project.version}'
-main: me.terraplugins.TerraPluginsBasics
-api-version: 1.19
